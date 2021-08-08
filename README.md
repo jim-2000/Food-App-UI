@@ -1,4 +1,35 @@
-# Food-App-UI
+
+#REACT NATIVE FOOD APP UI
+
+Design credits belong to respective owners. Check their other works from here
+
+If you want to test it you can install this apk to your device,
+
+Design Idea from Behance
+
+
+## Authors
+
+- [@jim-2000](https://github.com/jim-2000/)
+
+  
+## Demo
+
+Insert gif or link to demo
+
+  dsadfsdfad## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| white |  #FFF |
+| dark | #000 |
+| primary | #F9813A |
+| secondary | #fedac5 |
+| light | #E5E5E5 |
+| grey | #908e8c |
+
+
+
 
 
 
